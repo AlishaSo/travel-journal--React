@@ -59,6 +59,16 @@ main {
   margin-right: 1.5em;
 }
 
+@media (max-width: 520px) {
+  .location-div a {
+    display: block;
+  }
+
+  .destination-img {
+    margin-top: 4em;
+  }
+}
+
 .location-div img {
   margin-right: 5px;
 }
